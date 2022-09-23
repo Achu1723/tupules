@@ -1,0 +1,5 @@
+Write a Python program to find the length of a tuple.
+
+t=tuple(input())
+print(t)
+print(len(t))
